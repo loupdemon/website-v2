@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scratch Addons</title><link>https://scratchaddons.com/ja/</link><description>Recent content on Scratch Addons</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://scratchaddons.com/ja/index.xml" rel="self" type="application/rss+xml"/><item><title>ご利用ありがとうございました。</title><link>https://scratchaddons.com/ja/farewell/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/farewell/</guid><description> ご利用ありがとうございました。 Scratch Addonsはアンインストールされました。ご利用ありがとうございました。
+上のボタンで再インストールできます。また、Chrome拡張機能のページやFirefox アドオンのページでレビューを送信できます。
+以下も試してみてください:
+問題が発生しましたか? フィードバックを投稿するか、GitHubで投稿してください。 探していた機能が見当たりませんか? フィードバックを投稿するか、GitHub IssueやDiscussionsで提案してください。 意見がありますか? ここにて投稿できます。</description></item><item><title>ようこそ!</title><link>https://scratchaddons.com/ja/welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/welcome/</guid><description>ようこそ! Scratch Addonsがインストールされました!
+インストールありがとうございます。ぜひ、この拡張機能をお楽しみください。
+始め方 ステップ 1 Scratch Addons拡張機能アイコンをクリック ブラウザーの右上にあります。Google Chromeでは、パズルのアイコンをクリックしてください。
+ステップ 2 歯車アイコンで設定ページに行く 設定ページが開きます。ここで、拡張機能を設定できます。
+ステップ 3 アドオンのリストから、使いたいものを有効化する アドオンには、さらに細かく設定できるものもあります。
+支援したいですか? GitHubリポジトリにスターしたり、Chrome 拡張機能ページやFirefox アドオンページにてレビューを投稿できます。
+Scratch Messaging Extensionを利用していましたか? griffpatch氏作のScratch Messaging Extensionは更新され、Scratch Addonsになりました。詳細</description></item><item><title>アドオン</title><link>https://scratchaddons.com/ja/addons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/addons/</guid><description>アドオン Scratch Addonsのすべてのアドオンを掲載しています。
+スクリーンショットの撮影に協力してくれる人を募集しています。
+一覧表示 イースターエッグアドオンには卵のマークがあります。' data-toggle="tooltip" data-placement="left" data-html="true"イースターエッグ 2D カラーピッカー 2d-color-picker コスチュームエディターの鮮やかさと明るさのスライダーを2Dカラーピッカーにする。Shiftキーを押して一方のみを変更する。
+60FPSモード ⭐ 60fps 緑の旗をAltキーを押しながらクリックして60FPSにする。
+何もしないアドオン 🥚 account-settings-capitalize 何もしないアドオン。
+サムネイル設定 ⭐ animated-thumb プロジェクトのサムネイルを設定するボタンを、プロジェクトページの右下に追加する。
+絵文字の変更 better-emojis コメント欄の絵文字をベクター画像に変える。
+プロフィールページバナー better-featured-project プロフィールページの注目のプロジェクト表示をバナーにする。
+画像のHD アップロード better-img-uploads 「コスチュームをアップロード」ボタンの上に、画像を自動的にSVGに変換して画質を保つ「HDアップロード」ボタンを追加する。
+選択範囲を引用 better-quoter フォーラム投稿の一部を選択し、Quoteボタンを押して選択範囲を引用する。</description></item><item><title>フィードバックを送信</title><link>https://scratchaddons.com/ja/feedback/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/feedback/</guid><description> フィードバックを送信 Scratch Addonsについて意見がありますか? ここで投稿できます。
+window.i18nStrings = { statusSending: '送信中...', statusSuccess: '送信されました。意見ありがとうございます。', statusFailed: '送信に失敗しました。もう一度やり直してください。' } Scratchのユーザー名 (任意) フィードバック 現在有効のアドオンの一覧を送信する (推奨) 送信 あるいは 以下の方法でもやりとりできます。
+リポジトリにてIssueを作成する。 Discussionsページにて投稿する。 Discordサーバーにてメッセージを送信する。 Discord、Twitterなどで連絡する。 Scratchの規約上、Scratch上で連絡を取ることは禁止されています。
+FAQページも参照してください。
+#feedback-content{height:200px}</description></item><item><title>ブラウザーはサポートされていません</title><link>https://scratchaddons.com/ja/unsupported-browser/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/unsupported-browser/</guid><description>ブラウザーはサポートされていません Scratch Addonsは、このブラウザーでは動作しません。 最新のChrome、Firefoxなどのブラウザーを使用してください:
+Chromium 80+ Chrome 80+ ダウンロード 更新方法 Microsoft Edge 80+ ダウンロード 更新方法 Opera 67+ ダウンロード 更新方法 Brave 1.3+ ダウンロード Vivaldi 2.11+ ダウンロード 更新方法 システム要件: Windows 7+ OS X/MacOS 10.11+ 過去6年間に製造されたChromebook Firefox 74+ Firefox 74+ ダウンロード 更新方法 システム要件: Windows 7+ OS X / MacOS 10.</description></item><item><title>拡張機能の更新</title><link>https://scratchaddons.com/ja/scratch-messaging-transition/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/scratch-messaging-transition/</guid><description>Scratch Messaging拡張機能はScratch Addonsになりました! どうしたのですか? griffpatchのScratch Messaging Extensionは、Scratch Addonsに更新されました。
+Scratch Addonsアイコンをクリックして新しいメッセージを確認できます!
+Scratch Addonsには、他の機能も追加されています。Scratch Addons設定にて有効化できます。
+たとえば、Scratch通知をオンにすると、メッセージを受け取った時にブラウザ通知が届きます。
+エディターのダークモードや読み込み進捗バーなど、Scratchプロジェクトのテーマや機能も利用できます。
+Scratch Addonsとは? Scratch Addonsは、Scratchのためのブラウザ拡張機能です。Scratchウェブサイトやプロジェクトエディター用の機能やテーマを提供します。
+Scratch Addonsは完全無料、オープンソースソフトウェアです。ソースコードはGitHubで閲覧、貢献できます。
+バグ修正、新機能、テーマなどが、一週間から一か月間隔でリリースされます。
+何かしないといけないことはありますか? いいえ。
+Scratch Messaging Extensionはすでにアップデートされました。Scratch Addonsアイコンをクリックして、Scratchメッセージを通常通り使うことができます。
+他の機能を有効化したい場合は、アイコンをクリックして歯車アイコンをクリックし、設定ページに行ってください。
+フィードバックを送る 意見がありますか? フィードバックを送信できます。
+または、GitHubにてIssueを投稿できます。
+#intro-img img{width:150px;height:150px}#intro-img .</description></item><item><title>更新履歴</title><link>https://scratchaddons.com/ja/changelog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/changelog/</guid><description>更新履歴 主要な更新内容が以下に掲載されます。
+注意:ここに掲載されていないものを含めた内容に関しては、詳細な更新履歴を参照してください。
+v1.24.2 2022-02-07 最新 ¶ Bug fix: &amp;ldquo;clone counter&amp;rdquo; breaking because of incompatibility with some other editor addons Bug fix: &amp;ldquo;debugger&amp;rdquo; feature to highlight the block that triggered a log not working Bug fix: &amp;ldquo;Scratch Notifier&amp;rdquo; playing sound when receiving disabled notification types Bug fix: &amp;ldquo;website dark mode and customizable colors&amp;rdquo; incompatibility with &amp;ldquo;customizable quotes and code blocks on forums&amp;rdquo; リンク GitHubのリリースページ リリース時のリポジトリ 前バージョンとのコード比較 v1.</description></item><item><title>設定名にアイコンを加える</title><link>https://scratchaddons.com/ja/docs/develop/adding-an-icon-to-a-setting-name/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://scratchaddons.com/ja/docs/develop/adding-an-icon-to-a-setting-name/</guid><description>クラッシュを引き起こさずに設定名にアイコンを加えるには、
+ファイル名にハイフンは利用できない。 @アイコンファイル名.svg 設定名とaddon.jsonに書く。 存在しない場合は、/images/icons/にアイコンファイル名.svgを追加する。 /background/load-addon-manifests.jsを編集し、アイコンファイル名Icon: &amp;quot;@アイコンファイル名.svg&amp;quot;,を追加する。 Scratch メッセージの設定では、/addons/scratch-notifier/background.jsを編集する。</description></item></channel></rss>
